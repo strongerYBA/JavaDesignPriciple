@@ -1,0 +1,27 @@
+package com.yuan.design.pattern.structural.proxy;
+
+/**
+ * @ClassName Order
+ * @Author Administrator
+ * @Date 2020/9/1 22:41
+ */
+public class Order {
+    private Object orderInfo;
+    private Integer userId;
+
+    public Object getOrderInfo() {
+        return orderInfo;
+    }
+
+    public void setOrderInfo(Object orderInfo) {
+        this.orderInfo = orderInfo;
+    }
+
+    public Integer getUserId() {
+        return userId;
+    }
+
+    public void setUserId(Integer userId) {
+        this.userId = userId;
+    }
+}
