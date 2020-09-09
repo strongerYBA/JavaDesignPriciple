@@ -1,1 +1,1 @@
-# JavaDesignPriciple   java 24种设计模式介绍
+java 24种设计模式介绍
